@@ -1,0 +1,14 @@
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\bin\Debug\net9.0\проект по информатике СС.exe
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\bin\Debug\net9.0\проект по информатике СС.deps.json
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\bin\Debug\net9.0\проект по информатике СС.runtimeconfig.json
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\bin\Debug\net9.0\проект по информатике СС.dll
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\bin\Debug\net9.0\проект по информатике СС.pdb
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\obj\Debug\net9.0\проект по информатике СС.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\obj\Debug\net9.0\проект по информатике СС.AssemblyInfoInputs.cache
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\obj\Debug\net9.0\проект по информатике СС.AssemblyInfo.cs
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\obj\Debug\net9.0\проект по информатике СС.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\obj\Debug\net9.0\проект по информатике СС.dll
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\obj\Debug\net9.0\refint\проект по информатике СС.dll
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\obj\Debug\net9.0\проект по информатике СС.pdb
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\obj\Debug\net9.0\проект по информатике СС.genruntimeconfig.cache
+C:\Users\PC-01\Desktop\programm rider\проект по информатике СС\проект по информатике СС\obj\Debug\net9.0\ref\проект по информатике СС.dll
